@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>TodoBar</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Mon, 10 Aug 2026 20:46:14 +0300</pubDate>
+            <sparkle:version>0.1.0</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar-0.1.0.dmg" length="2254482" type="application/octet-stream" sparkle:edSignature="UjT4j3/GNAlaM1HHPdDP2v/pG2i9UsH5mSFctCoKAht+Ivw3Jjra6DrcCVS8ataG09kniyQH4YZZpiL6SzHrCg=="/>
+        </item>
+    </channel>
+</rss>
