@@ -3,6 +3,17 @@
     <channel>
         <title>TodoBar</title>
         <item>
+            <title>0.1.1</title>
+            <pubDate>Mon, 10 Aug 2026 21:36:55 +0300</pubDate>
+            <sparkle:version>0.1.1</sparkle:version>
+            <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar-0.1.1.dmg" length="2254398" type="application/octet-stream" sparkle:edSignature="uxVAc1EfwKk0mR/oNXQymlHhXZPs/ZAUdJHPMB6WlTKyVV9LEy416EUKQiLHcRBLmG4EXYbCQnAn6OXtKgdlDQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.1.1-0.1.0.delta" sparkle:deltaFrom="0.1.0" length="1994" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="pxN93K0mXtdPin5eOfwsK+NKb82QRxPOWsUMs2ohO7firXciVDTJTH0A68QJiXxgFQtrQxrpT2lEwzEnNMcxCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1.0</title>
             <pubDate>Mon, 10 Aug 2026 20:46:14 +0300</pubDate>
             <sparkle:version>0.1.0</sparkle:version>
