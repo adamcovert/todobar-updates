@@ -3,6 +3,21 @@
     <channel>
         <title>TodoBar</title>
         <item>
+            <title>0.2.2</title>
+            <pubDate>Tue, 11 Aug 2026 17:40:44 +0300</pubDate>
+            <sparkle:version>0.2.2</sparkle:version>
+            <sparkle:shortVersionString>0.2.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar-0.2.2.dmg" length="2289703" type="application/octet-stream" sparkle:edSignature="tPkLpynKTTZWojOd3xN5BsJLRyZH7sGLI3N7FGMwHTKhzxjZROIRfmNlRvfYcNvfikB/D6F/GvjJoTJOsAz6AA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.2-0.2.1.delta" sparkle:deltaFrom="0.2.1" length="1622" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="eyrKvLUXzpyTA/m5sT8+ekso4ekWC6N2rWW9YSJFgPBozmqoJQEhDzlr2ppJvZyBpx58Tso2M3yXOn+aIXwuBA=="/>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.2-0.2.0.delta" sparkle:deltaFrom="0.2.0" length="60658" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="yotlIE9E7hF/PQKOrWkr1Z8OZxkhMM5EBRigVbl1jbn3HZ8wQRxXbY9P6q8CBhML4cs3cD8fkwM7A8ZigT7aBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.2-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="103282" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="0lZFK181u8pCFZm3KRWcvEINiVacKar9E5sh7mO0ORg/132hzqJhiR+lJK59ZlYQceN8bQzG4b7S4BqvaiVkCA=="/>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.2-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="105866" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="dNYuDUbk3yDOLOIoXXA6v1nLWJU2DXMtfq85qCwOzbBogojAUQgq5D3VZFYYAd5yYpFXvGTN4Zk81fGLmyJ8BQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.2-0.1.0.delta" sparkle:deltaFrom="0.1.0" length="106022" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iDUk86eh5jzrD514TrRdetTrVlxb9yR2rHJzwEvVu6OhWQgJ5/3+RvhXrcrvuBxX+8XivXWMRsh5kIkaelAvAQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.2.1</title>
             <pubDate>Tue, 11 Aug 2026 17:30:16 +0300</pubDate>
             <sparkle:version>0.2.1</sparkle:version>
@@ -27,18 +42,6 @@
                 <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.0-0.1.2.delta" sparkle:deltaFrom="0.1.2" length="91998" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="CoPEFlcdti54xPqirmb81KascAlpnbGWT/iNQ/Nrw58jeBRuPKfJhx36krStNOcyzPnmxkec3OZ4LAO2Jp2FBg=="/>
                 <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.0-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="96654" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="SzRmft4EB/q0V7N2WBR3f4GT8iiVDfGNfmzUwZS4sTmNuB5cDXZya5l1BcDIWz4vCUC+QEbOlFHHhq+t8VFOCQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.2.0-0.1.0.delta" sparkle:deltaFrom="0.1.0" length="96318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="3Yv9pIMW860Ov5DFFtYlPLooeuQKk8PweSa7EjcjvxyiDn3McByeZnifULIjVzNVdcbEvEjyxvgULJBKfElqBA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>0.1.2</title>
-            <pubDate>Tue, 11 Aug 2026 10:47:38 +0300</pubDate>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar-0.1.2.dmg" length="2251428" type="application/octet-stream" sparkle:edSignature="8RD8BQBIwmNIGXta6VTPo7DpIi91F/HccSOCpaJI6Y1CQhZuidS+CZhTCssBOVmbhYhCEy1w+Gh6eNUXYSTwDw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.1.2-0.1.1.delta" sparkle:deltaFrom="0.1.1" length="41458" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="5n4Gb4CowGg+pqkQ1qFtnYDPJU1ruuH7nnZ+MrmhrLizDolP0zVQ5hzPF1+2hy5HkOZXsDY3qAQEm1ood3EiDw=="/>
-                <enclosure url="https://raw.githubusercontent.com/adamcovert/todobar-updates/main/releases/TodoBar0.1.2-0.1.0.delta" sparkle:deltaFrom="0.1.0" length="42254" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="980240" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="Po8ys/8cO96dj3C7DS4wkb5B2lVjU/Rizgwlxj2HTDq1/JHlHQud+4nk98iQ01oE7i1wgOMrwiIEbKIempnHDg=="/>
             </sparkle:deltas>
         </item>
     </channel>
